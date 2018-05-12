@@ -1,0 +1,38 @@
+_repo: The-Corner-House-Girls-on-a-Houseboatwhat-was-discovered_38609
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Brooks
+    gutenberg_agent_id: '9684'
+    url: http://www.gutenberg.org/2009/agents/9684
+description: ''
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canal-boats -- Juvenile fiction'
+- !lcsh 'Circus performers -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Reunions -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+title: "The Corner House Girls on a Houseboat\r\nHow they sailed away, what happened\
+  \ on the voyage, and what was discovered"
+url: http://www.gutenberg.org/ebooks/38609
